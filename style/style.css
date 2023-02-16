@@ -133,12 +133,12 @@ width: 70%;
         
     }
     .apresentacao__conteudo{
-        width: 340px;
+        width: auto;
         
     }
     .apresentacao__imagem{
-        width:50%;
-        padding: 0% 9% 0% 0%;
+        width: 150px;
+        padding: 0% 0% 0% 0%;
         
     }
 
