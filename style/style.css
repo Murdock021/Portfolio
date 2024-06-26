@@ -211,7 +211,7 @@ p {
 }
 
 .aboutme {
-    background: url("https://media.discordapp.net/attachments/1061142160843493447/1255582957196804260/image.png?ex=667da840&is=667c56c0&hm=403b39d4debea8ba377fd0c0e27e90bf63e439442f7b5c4b67d5e1364d66c6cb&=&format=webp&quality=lossless")
+    background: url("../Image/backgroud.png")
     no-repeat;
   background-size: cover;
 }
